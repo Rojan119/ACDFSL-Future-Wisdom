@@ -5,7 +5,7 @@ This repository contains our research on the innovative application of Attentive
 Our approach, which is unique in its integration of attention mechanisms into few-shot learning models, introduces a deep learning architecture of four convolution blocks incorporating Squeeze-and-Excitation (SE) attention and Residual elements. This strategy marks a significant shift from conventional methodologies.
 Requirements
 
-<h4>To utilize this repository, the following software requirements must be satisfied:</h4>
+<h2>To utilize this repository, the following software requirements must be satisfied:</h2>
 
     CUDA: Version 10.0
     Python: Version 3.7
@@ -15,7 +15,7 @@ Requirements
 
 Please make sure to have the specific versions installed to ensure the code runs correctly.
 
-<h4>Datasets can be found here:</h4>
+<h2>Datasets can be found here:</h2>
 
 Target: https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes
 
