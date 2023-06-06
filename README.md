@@ -4,6 +4,8 @@ This repository contains our research on the innovative application of Attentive
 
 Our approach, which is unique in its integration of attention mechanisms into few-shot learning models, introduces a deep learning architecture of four convolution blocks incorporating Squeeze-and-Excitation (SE) attention and Residual elements. This strategy marks a significant shift from conventional methodologies.
 
+![Example Image](./datasets/drawing-1111.png)
+
 <h1>Requirements</h1>
 
 <h2>To utilize this repository, the following software requirements must be satisfied:</h2>
