@@ -22,7 +22,6 @@ Target: https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scen
 Source: https://opendatalab.com/Chikusei_Dataset
 
 An example dataset folder has the following structure:
-
 datasets
 ├── Chikusei_imdb_128.pickle
 ├── salinas
