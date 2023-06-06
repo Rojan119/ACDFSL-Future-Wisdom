@@ -1,11 +1,11 @@
-ACDFSL for Hyperspectral Image Classification
+<H1>ACDFSL for Hyperspectral Image Classification</H1>
 
 This repository contains our research on the innovative application of Attentive Cross-Domain Few-Shot Learning (ACDFSL) in Hyperspectral Image (HSI) Classification. This study specifically tackles the challenging aspect of limited labeled data in various environments.
 
 Our approach, which is unique in its integration of attention mechanisms into few-shot learning models, introduces a deep learning architecture of four convolution blocks incorporating Squeeze-and-Excitation (SE) attention and Residual elements. This strategy marks a significant shift from conventional methodologies.
 Requirements
 
-To utilize this repository, the following software requirements must be satisfied:
+<h4>To utilize this repository, the following software requirements must be satisfied:</h4>
 
     CUDA: Version 10.0
     Python: Version 3.7
@@ -15,10 +15,11 @@ To utilize this repository, the following software requirements must be satisfie
 
 Please make sure to have the specific versions installed to ensure the code runs correctly.
 
-Datasets can be found here:
+<h4>Datasets can be found here:</h4>
 
-    Target: Hyperspectral Remote Sensing Scenes
-    Source: Chikusei Dataset
+Target: https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes
+
+Source: https://opendatalab.com/Chikusei_Dataset
 
 An example dataset folder has the following structure:
 
@@ -33,7 +34,7 @@ datasets
     ├── paviaU_gt.mat
     └── paviaU.mat
 
-Usage
+<h2>Usage</h2>
 
 After satisfying the required dependencies, you can execute the script for training and prediction on the Salinas dataset using the following steps:
 
@@ -41,9 +42,6 @@ After satisfying the required dependencies, you can execute the script for train
     Navigate to the repository's directory using your terminal.
     Run the Salinas-train-predict.py script by entering the following command in the terminal:
 
-bash
-
-python Salinas-train-predict.py
 
 This command will start the training process using the Salinas dataset and, upon completion, perform predictions. Please ensure that the Salinas dataset is correctly placed in the directory and the path is accurately specified within the Salinas-train-predict.py script.
 
