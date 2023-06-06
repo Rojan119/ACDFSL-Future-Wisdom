@@ -15,15 +15,6 @@ Requirements
 
 Please make sure to have the specific versions installed to ensure the code runs correctly.
 
-An example dataset folder has the following structure:
-datasets
-├── Chikusei_imdb_128.pickle
-├── salinas
-│   ├── salinas_corrected.mat
-│   └── salinas_gt.mat
-└── paviaU
-    ├── paviaU_gt.mat
-    └── paviaU.mat
 
 <h2>Datasets can be found here:</h2>
 
