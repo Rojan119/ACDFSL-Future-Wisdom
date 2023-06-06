@@ -19,6 +19,7 @@ Please make sure to have the specific versions installed to ensure the code runs
 
 Datasets can be found here:
 Target: https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes
+
 Source: https://opendatalab.com/Chikusei_Dataset
 
 An example dataset folder has the following structure:
@@ -39,9 +40,6 @@ After satisfying the required dependencies, you can execute the script for train
     Navigate to the repository's directory using your terminal.
     Run the Salinas-train-predict.py script by entering the following command in the terminal:
 
-bash
-
-python Salinas-train-predict.py
 
 This command will start the training process using the Salinas dataset and, upon completion, perform predictions. Please ensure that the Salinas dataset is correctly placed in the directory and the path is accurately specified within the Salinas-train-predict.py script.
 
