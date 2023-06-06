@@ -15,12 +15,6 @@ Requirements
 
 Please make sure to have the specific versions installed to ensure the code runs correctly.
 
-<h2>Datasets can be found here:</h2>
-
-Target: https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes
-
-Source: https://opendatalab.com/Chikusei_Dataset
-
 An example dataset folder has the following structure:
 datasets
 ├── Chikusei_imdb_128.pickle
@@ -30,6 +24,13 @@ datasets
 └── paviaU
     ├── paviaU_gt.mat
     └── paviaU.mat
+
+<h2>Datasets can be found here:</h2>
+
+Target: https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes
+
+Source: https://opendatalab.com/Chikusei_Dataset
+
 
 <h2>Usage</h2>
 
