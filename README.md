@@ -3,7 +3,8 @@
 This repository contains our research on the innovative application of Attentive Cross-Domain Few-Shot Learning (ACDFSL) in Hyperspectral Image (HSI) Classification. This study specifically tackles the challenging aspect of limited labeled data in various environments.
 
 Our approach, which is unique in its integration of attention mechanisms into few-shot learning models, introduces a deep learning architecture of four convolution blocks incorporating Squeeze-and-Excitation (SE) attention and Residual elements. This strategy marks a significant shift from conventional methodologies.
-Requirements
+
+<h1>Requirements</h1>
 
 <h2>To utilize this repository, the following software requirements must be satisfied:</h2>
 
