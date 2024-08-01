@@ -35,6 +35,11 @@ After satisfying the required dependencies, you can execute the script for train
     Run the Salinas-train-predict.py script by entering the following command in the terminal:
 
 
+<h2> Reference </h2>
+R. Basnet, R. Goperma and L. Zhao, "Attentive Cross-Domain Few-shot Learning and Domain Adaptation in HSI Classification," TENCON 2023 - 2023 IEEE Region 10 Conference (TENCON), Chiang Mai, Thailand, 2023, pp. 220-225, doi: 10.1109/TENCON58879.2023.10322397. keywords: {Support vector machines;Deep learning;Adaptation models;Convolution;Source coding;Classification algorithms;Software development management;ACDFSL;HSI Classification;SE Attention;FSL;Domain Adaptation},
+
+
+
 This command will start the training process using the Salinas dataset and, upon completion, perform predictions. Please ensure that the Salinas dataset is correctly placed in the directory and the path is accurately specified within the Salinas-train-predict.py script.
 
 Feel free to explore the script for understanding the training and prediction process, and adjust any parameters if necessary.
