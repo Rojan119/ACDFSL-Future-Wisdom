@@ -39,13 +39,12 @@ This command will start the training process using the Salinas dataset and, upon
 Feel free to explore the script for understanding the training and prediction process, and adjust any parameters if necessary.
 
 <h2> Reference </h2>
-@INPROCEEDINGS{10322397, <br>
-  author={Basnet, Rojan and Goperma, Rimsa and Zhao, Liang}, <br>
-  booktitle={TENCON 2023 - 2023 IEEE Region 10 Conference (TENCON)}, <br>
-  title={Attentive Cross-Domain Few-shot Learning and Domain Adaptation in HSI Classification}, <br>
-  year={2023}, <br>
-  volume={},<br>
-  number={}, <br>
-  pages={220-225}, <br>
-  doi={10.1109/TENCON58879.2023.10322397}}<br>
+
+    @INPROCEEDINGS{10322397, <br>
+      author={Basnet, Rojan and Goperma, Rimsa and Zhao, Liang}, <br>
+      booktitle={TENCON 2023 - 2023 IEEE Region 10 Conference (TENCON)}, <br>
+      title={Attentive Cross-Domain Few-shot Learning and Domain Adaptation in HSI Classification}, <br>
+      year={2023}, <br>
+      pages={220-225}, <br>
+      doi={10.1109/TENCON58879.2023.10322397}}<br>
   
