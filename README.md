@@ -47,6 +47,5 @@ Feel free to explore the script for understanding the training and prediction pr
   volume={},<br>
   number={}, <br>
   pages={220-225}, <br>
-  keywords={Support vector machines;Deep learning;Adaptation models;Convolution;Source coding;Classification algorithms;Software development management;ACDFSL;HSI Classification;SE Attention;FSL;Domain Adaptation},<br>
   doi={10.1109/TENCON58879.2023.10322397}}<br>
   
